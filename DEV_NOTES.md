@@ -8,3 +8,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Added CONTRIBUTING.md stub
+
+## 2026-05-13
+- Updated .gitignore to exclude build artifacts
